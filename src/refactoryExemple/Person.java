@@ -10,5 +10,8 @@ package refactoryExemple;
  * @author 1795850
  */
 public class Person {
+   int  age;
+   public void study(){
+       System.out.println("I study .");}
     
 }
